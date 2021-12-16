@@ -1,6 +1,6 @@
 # Pull base image 
-From tomcat
+From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "valaxytech@gmail.com" 
-COPY C:\WINDOWS\ServiceProfiles\LocalService\.jenkins\workspace\Maven-tomcat\webapp\target\webapp.war  C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps
+MAINTAINER "annadreddyssm@gmail.com" 
+COPY ./webapp.war /usr/local/tomcat/webapps
