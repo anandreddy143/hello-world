@@ -316,7 +316,7 @@ div#amzn-native-ad-0{max-width:1021px;min-width:210px;font-size:13px;color:#111;
 <style type="text/css">
 </style>
 </div>
-<script src="./The Shell Scripting Tutorial_files/gumroad.js.download"></script>
+<script src="./The Shell-Scripting Tutorial_files/gumroad.js.download"></script>
 <a class="gumroad-button" href="https://gum.co/shellscript?wanted=true" target="_blank" data-gumroad-single-product="true"><span class="gumroad-button-logo"></span>Buy this Shell Scripting Tutorial as a PDF for only $5</a>
 
 <p></p>
